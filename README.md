@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Navya Sharma</h1>
-<h3 align="center"> Student, Vellore Institute of Technology, Chennai</h3>
+<h3 align="center"> student, Vellore Institute of Technology, Chennai</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navyasharma0203&label=Profile%20views&color=0e75b6&style=flat" alt="navyasharma0203" /> </p>
 
